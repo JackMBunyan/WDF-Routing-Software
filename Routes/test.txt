@@ -1,0 +1,22 @@
+Here's your route:
+
+2A1
+2A2
+2A3
+2A
+2G1
+2G2
+2G3
+2G4
+2G7
+2G10
+2G9
+2G
+2E1
+
+
+Advice for using the route:
+
+1. Follow the route by following the rooms as you walk down each corridor
+2. If the first number changes, use the staircase you should be adjacent to
+3. The rooms aren't always in a logical order in each block

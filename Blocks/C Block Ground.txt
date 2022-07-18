@@ -1,0 +1,6 @@
+Reprographics,1C5,0.444
+1C5,Administration,0.222
+Administration,1C1,2.664
+1C1,1C4,2.664
+1C4,1C2,6.66
+1C2,1C3,2.22
